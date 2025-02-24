@@ -1,12 +1,21 @@
 <div align="center">
-  <img src="https://img.icons8.com/clouds/400/artificial-intelligence.png" width="200">
-  <h1>LLM 企业级实战指南</h1>
+  <h1>Enterprise LLM Practical Guide</h1>
   
-  [![CI/CD](https://github.com/universeTeam/LLM-Enterprise-Practical-Guide/actions/workflows/main.yml/badge.svg)](https://github.com/universeTeam/LLM-Enterprise-Practical-Guide/actions)
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-  [![Open Issues](https://img.shields.io/github/issues/universeTeam/LLM-Enterprise-Practical-Guide)](https://github.com/universeTeam/LLM-Enterprise-Practical-Guide/issues)
-  [![Discord](https://img.shields.io/discord/1234567890123456?label=社区交流)](https://discord.gg/example)
+  [![Doc Status](https://img.shields.io/badge/Docs-80%25_Complete-brightgreen)](https://github.com/universeTeam/LLM-Enterprise-Practical-Guide/wiki)
+  [![Deployment](https://img.shields.io/badge/Deployment-On--Premise-blueviolet)](docs/deployment/README.md)
+  [![中文](https://img.shields.io/badge/Chinese-Version-red)](README.zh-CN.md)
 
 </div>
 
-## 🚀 快速开始
+## Project Focus
+Practical solutions for LLM adoption in SMEs:
+- 🏭 Production-grade API Design
+- 🔒 On-Premise Deployment
+- 📊 Cost-Benefit Analysis Framework
+
+## Core Documentation
+| Document | Description | Version |
+|---------|-------------|---------|
+| [API Spec](docs/api/README.md) | Standardized Interfaces | v1.2.0 |
+| [On-Prem Guide](docs/deployment/on-premises.md) | Single-node/Cluster | v2.1.1 |
+| [Security](docs/compliance/gdpr.md) | Data Protection | v1.0.3 |
